@@ -6,4 +6,4 @@ Allora enables applications to leverage smarter, more secure AI through a self-i
 
 #### Project Links: 
 
-[Website](https://www.allora.network/) - [Discord](https://discord.gg/allora) - [X](https://x.com/AlloraNetwork) - [Documentation](https://docs.allora.network/home/explore) - [Litepaper](https://x.com/AlloraNetwork/status/1762909716135444883/photo/1)
+[Website](https://www.allora.network/) - [Discord](https://discord.gg/allora) - [X](https://x.com/AlloraNetwork) - [Documentation](https://docs.allora.network/) - [Litepaper](https://x.com/AlloraNetwork/status/1762909716135444883/photo/1)
